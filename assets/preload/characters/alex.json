@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "stickman idle"
+		},
+		{
+			"offsets": [
+				28,
+				-297
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "stickman right"
+		},
+		{
+			"offsets": [
+				47,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "stickman left"
+		},
+		{
+			"offsets": [
+				-50,
+				-390
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "stickman down"
+		},
+		{
+			"offsets": [
+				0,
+				-231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "stickman up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stickman_assets",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "alex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		164,
+		0
+	],
+	"camera_position": [
+		-160,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
