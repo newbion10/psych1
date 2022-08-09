@@ -1,0 +1,32 @@
+{
+	"storyName": "orignal mod by beterperter",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"lonely",
+			"alex",
+			[
+				255,
+				165,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"stick",
+		"stibf",
+		"stigf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "lonely demo"
+}
