@@ -1,0 +1,48 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": 210,
+		"y": 110
+	},
+	"healthbarColor": "#919191",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": -2,
+			"y": -12,
+			"anim": "gf sad instance 100",
+			"loop": false,
+			"name": "sad",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "GF Dancing Beat instance 100",
+			"loop": true,
+			"name": "idle",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": false,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}
